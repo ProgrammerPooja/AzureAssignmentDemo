@@ -1,0 +1,2 @@
+# AzureAssignmentDemo
+Demo of Azure
